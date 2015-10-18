@@ -85,3 +85,7 @@ xcuserdata
 # Carthage/Checkouts
 
 Carthage/Build
+
+*.xcworkspacedata
+
+*.pbxproj

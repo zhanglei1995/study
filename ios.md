@@ -67,3 +67,10 @@ if(){
 }
 0 NO YES 为假 其他的都为真
 
+函数 实参 形参
+
+main 函数的默认参数
+int main(int argc, const char * argv[]) {
+}
+argc 是程序分几段
+argv 是程序的名字 和 参数
