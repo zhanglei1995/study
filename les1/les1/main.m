@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, World!");
         NSLog(@"ok");
-//        行注释
+        //        行注释
         /*
          块注释
          */
